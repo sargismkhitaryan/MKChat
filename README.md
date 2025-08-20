@@ -2,6 +2,8 @@
 
 A modern iOS messaging application built with UIKit, featuring reusable components, Core Data persistence, and MVVM architecture pattern.
 
+[Watch Performance Demo Video](https://youtu.be/PXOmmyABrAA)
+
 ## Features
 
 - 📱 **Reusable Message Component**: Customizable message cells with configurable background color, corner radius, and text size
